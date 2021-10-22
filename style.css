@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+html {
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm281batch2-nunny-007.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c6804f408d9644ac7656a4514ef0857e);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navigation {
+    font-size: 12px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 800;
+}
+
+.jumbotron{
+    background: url("https://res.cloudinary.com/rebelwalls/image/upload/b_black,c_fill,f_auto,fl_progressive,h_533,q_auto,w_800/v1545142208/article/R16181_image1") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.container1{
+    border: 1px solid black;
+}
+
+#page-wrap {
+    display: block;
+    background-color:white;
+    box-shadow: 0 0 20px black;
+    width:80%;
+    line-height: 40px;
+}
+
+p {
+    margin: 20px;
+    font-family: 'Handlee', cursive;
+    font-weight:700;
+    font-size: 20px;
+}
+
+span {
+    font-family: 'Satisfy', cursive;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+em {
+    color: red;
+}
